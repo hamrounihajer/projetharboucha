@@ -1,3 +1,5 @@
 {
-    "Patients": true
+    "Patients": true,
+    "Users": true,
+    "Auth": true
 }
