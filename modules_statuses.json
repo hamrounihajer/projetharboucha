@@ -1,5 +1,8 @@
 {
     "Patients": true,
     "Users": true,
-    "Auth": true
+    "Auth": true,
+    "Service": true,
+    "Checkout": true,
+    "Subscription": true
 }
